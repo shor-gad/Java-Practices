@@ -42,7 +42,7 @@ public class App {
 		System.out.println("---------------------------");
 		
 		b1.withdraw(withdrawSum);
-	    osh  = b1.balance();
+	        osh  = b1.balance();
 		System.out.println("Balance: "+ osh);
 		
 		System.out.println("---------------------------");
